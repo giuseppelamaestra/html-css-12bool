@@ -59,3 +59,70 @@ p {
 .bg-green {
     background-color: #01e165;
 }
+
+.bottom {
+
+    margin-bottom: 1rem;
+
+}
+
+.col-3 {
+
+    padding: 1.5rem;
+    background-color:#006cfa;
+    margin: 0 auto;
+    border: 1px solid white;
+}
+
+
+.col-4 {
+
+    padding: 1.5rem;
+    background-color:#006cfa;
+    margin: 0 auto;
+    border: 1px solid white;
+}
+
+.col-5 {
+    padding: 1.5rem;
+    background-color:#006cfa;
+    margin: 0 auto;
+    border: 1px solid white;
+}
+
+.col-7 {
+    padding: 1.5rem;
+    background-color:#006cfa;
+    margin: 0 auto;
+    border: 1px solid white;
+}
+
+.col-11 {
+    padding: 1.5rem;
+    background-color:#006cfa;
+    margin: 0 auto;
+    border: 1px solid white;
+}
+
+.col-8 {
+
+    padding: 1.5rem;
+    background-color:#006cfa;
+    margin: 0 auto;
+    border: 1px solid white;
+}
+
+.col-9 {
+    padding: 1.5rem;
+    background-color:#006cfa;
+    margin: 0 auto;
+    border: 1px solid white;
+}
+
+.col-10 {
+
+    padding: 1.5rem;
+    background-color:#006cfa;
+    margin: 0 auto;
+    border: 1px solid white;
+}
