@@ -1,0 +1,21 @@
+.col-1 {
+    padding: 1.5rem;
+    background-color: #006cfa;
+    margin: 0 auto;
+    border: 1px solid white;
+}
+
+.col-2 {
+    
+    padding: 1.5rem;
+    background-color:#006cfa;
+    margin: 0 auto;
+    border: 1px solid white;
+}
+
+.col {
+    padding: 1.5rem;
+    background-color: #006cfa;
+    margin: 0 auto;
+    border: 1px solid white;
+}
